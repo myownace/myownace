@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myownace
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in all things coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on beginner-level JavaScript-heavy projects
+- 💞️ I’m looking to complete a JavaScript-heavy project
 - 📫 Email : streamlearn1704j@gmail.com
 
 <!---
